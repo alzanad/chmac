@@ -24,8 +24,8 @@
 
 1.  **استنساخ المستودع:**
     ```bash
-    git clone https://github.com/اسم-المستخدم-الخاص-بك/اسم-المستودع-الخاص-بك.git
-    cd اسم-المستودع-الخاص-بك
+    git clone https://github.com/alzanad/chmac.git
+    cd chmac
     ```
 
 2.  **تثبيت الاعتماديات:**
@@ -37,9 +37,9 @@
 
 يجب تشغيل الأداة بصلاحيات المدير (root) باستخدام `sudo`:
 
-```bash
-sudo python3 chmac.py
-    ```
+    ```bash
+    sudo python3 chmac.py
+     ```
     
 ## الترخيص
 هذا المشروع مرخص تحت [MIT License](LICENSE).
